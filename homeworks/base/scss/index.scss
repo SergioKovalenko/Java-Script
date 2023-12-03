@@ -1,1 +1,19 @@
 @import '../../../index.css';
+
+* {
+    font-family: roboto, sans-serif;
+}
+
+h1 {
+    color: darkslategrey;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: darkgreen;
+}
